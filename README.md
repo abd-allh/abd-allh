@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **E-Commerce Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS, Teasting**
 
-- 👯 I’m looking to collaborate on **RESTfull Projects**
+- 👯 I’m looking to collaborate on **RESTfull**
 
-- 💬 Ask me about **Full-Stack | MERN**
+- 💬 Ask me about **JavaScript | MERN-Stack**
 
 - 📫 How to reach me **abdallah.ismail698@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I can stand on one hand**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
